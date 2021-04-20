@@ -1,1 +1,1 @@
-sort algorithms written with Golanss
+sort algorithms written with Golang
